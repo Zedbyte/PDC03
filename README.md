@@ -1,8 +1,8 @@
 # Repository Details
 
-Each folder (e.g., activity01) contains all the code related to a specific activity.
+Each folder (e.g., `activity01`) contains all the code related to a specific activity.
 
-The required deliverables (such as screenshots) are stored within the _deliverables subfolder of each activity folder.
+The required deliverables (such as screenshots) are stored within the `_deliverables` subfolder of each activity folder.
 
 
 ## Activities
