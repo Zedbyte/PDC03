@@ -27,6 +27,8 @@ All required deliverables, such as screenshots, are stored in the `_deliverables
 ![Visible Message](activity01/_deliverables/PDC03-Activity01-VisibleMessage.png)
 ![Widget Tree](activity01/_deliverables/PDC03-Activity01-WidgetTree.png)
 ![Widgets Structure](activity01/_deliverables/PDC03-Activity01-Widgets.png)
+![Hidden Message](activity01/_deliverables/PDC03-Activity01-HiddenMessage2.png)
+![Visible Message](activity01/_deliverables/PDC03-Activity01-VisibleMessage2.png)
 
 ---
 
